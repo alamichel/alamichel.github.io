@@ -28,4 +28,8 @@ and don't forget to check back to see if this page has been fully developed or
 near completion. Hopefully with more time and experience, I should have more
 repositories available for you to learn from, use, and improve for everyone.
 
-> さらに向こうへ、プルス●ウルトラ！:v:
+> さらに向こうへ、プルス・ウルトラ！:v:
+
+*Full Disclosure*: I only really know how to speak English and Spanish. I am
+still trying to learn Japanese (alongside programming languages, of course). I
+still like the quote though (roughly translates to "Go beyond, plus ultra").
