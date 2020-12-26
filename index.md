@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Hello There!
-
 This page is still a work in progress, as it is currently running the default
 Jekyll theme. Feel free to stop by from time to time as more updates are added
 to make this page more asthetically pleasing. (At this point, my first post and
