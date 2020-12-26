@@ -1,6 +1,7 @@
-# Hello World!
-
-Date Created: 2020-07-26
+---
+layout: post
+title: "Hello World!"
+---
 
 ## Who Am I
 
